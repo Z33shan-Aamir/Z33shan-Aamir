@@ -10,7 +10,7 @@ I write code in **Python** and **C++** — because why not juggle two languages 
 
 <a href="https://medium.com/@haztechycontent" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="24" alt="Medium"/> 
-</a>  
+</a>
 <a href="https://instagram.com/haztechycontent" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="24" alt="Instagram" />
 </a>
