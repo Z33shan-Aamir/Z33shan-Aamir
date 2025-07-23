@@ -1,35 +1,36 @@
-# README.md
-# Hey there, fellow human 👋
+<h1 align="center">Hi 👋, Fellow Humans. I'm Zeeshan Aamir.</h1>
+<h3 align="center">A passionate frontend developer from Pakistan. Coding in C++ and python because apparently I love coding and overcomplicating my life</h3>
 
-I’m an **Arch Linux** user because apparently, I enjoy configuring my OS more than actually using it.  
-I write code in **Python** and **C++** — because why not juggle two languages that sometimes disagree with each other?
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=z33shan-aamir&label=Profile%20views&color=0e75b6&style=flat" alt="z33shan-aamir" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z33shan-aamir" alt="z33shan-aamir" /></a> </p>
 
-## Find me on the internet (if you must)
+- 🔭 I’m currently working on [Game-Addiction-Cure](https://github.com/Z33shan-Aamir/Game-Addiction-Cure)
 
-<a href="https://medium.com/@haztechycontent" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="24" alt="Medium"/> 
-</a>
-<a href="https://instagram.com/haztechycontent" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="24" alt="Instagram" />
-</a>
+- 🌱 I’m currently learning **JS, React**
 
----
+- 🤝 I’m looking for help with [Game-Addiction-Cure](https://github.com/Z33shan-Aamir/Game-Addiction-Cure)
 
-### What I do when I’m not tweaking Arch configs:
+- 📝 I regularly write articles on [Medium](https://medium.com/@haztechycontent)
 
-- Trying to **automate** and **over complicate** my life with **Python** and **C+**+.
-- Touching grass.
-- Learning new tech I'll never need
-- Try not to break my system with a rogue `pacman -Syu`
+- 💬 Ask me about **Django, C++, Python**
 
----
+- 📫 How to reach me **zeeshanaamir29@gmail.com**
 
-<!-- Social media icons -->
-[medium-icon]: https://cdn-icons-png.flaticon.com/512/5968/5968906.png
-[instagram-icon]: https://cdn-icons-png.flaticon.com/512/174/174855.png
+- ⚡ Fun fact **I learn programming languages that I will never need just for fun.**
 
-<!-- Replace these URLs with your actual profiles -->
-[medium-url]: https://medium.com/@yhaztechycontent
-[instagram-url]: https://www.instagram.com/haztechycontent/
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/@haztechycontent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@haztechycontent" height="30" width="40" /></a>
+<a href="https://instagram.com/@haztechycontent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@haztechycontent" height="30" width="40" /></a>
+<a href="https://medium.com/@haztechycontent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@haztechycontent" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=z33shan-aamir&show_icons=true&locale=en&layout=compact" alt="z33shan-aamir" /></p>
