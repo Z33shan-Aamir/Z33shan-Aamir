@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My Switch to Arch… The Good, The Bad, and The Ugly](https://haztechycontent.medium.com/my-switch-to-arch-the-good-the-bad-and-the-ugly-8b8fc7b715ea?source=rss-645d33a0cec1------2)
+- [Dev Secrets I Learned the Hard Way &lpar;So You Don’t Have To&rpar;](https://levelup.gitconnected.com/dev-secrets-i-learned-the-hard-way-so-you-dont-have-to-7f648ad59737?source=rss-645d33a0cec1------2)
+- [Still Not Using Docker? Here’s Why You Should be](https://levelup.gitconnected.com/docker-the-developer-tool-youll-wish-you-learned-sooner-58245de8f002?source=rss-645d33a0cec1------2)
+- [I tried to learning a new programming language in one week](https://levelup.gitconnected.com/mastering-a-second-programming-language-in-a-week-step-by-step-guide-68cc40495b48?source=rss-645d33a0cec1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
