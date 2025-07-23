@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, Fellow Humans. I'm Zeeshan Aamir.</h1>
 <h3 align="center">A passionate frontend developer from Pakistan. Coding in C++ and python because apparently I love coding and overcomplicating my life</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=z33shan-aamir&label=Profile%20views&color=0e75b6&style=flat" alt="z33shan-aamir" /> </p>
 
 - 🔭 I’m currently working on [Game-Addiction-Cure](https://github.com/Z33shan-Aamir/Game-Addiction-Cure)
 
