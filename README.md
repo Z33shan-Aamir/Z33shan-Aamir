@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z33shan-aamir&label=Profile%20views&color=0e75b6&style=flat" alt="z33shan-aamir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z33shan-aamir" alt="z33shan-aamir" /></a> </p>
-
 - 🔭 I’m currently working on [Game-Addiction-Cure](https://github.com/Z33shan-Aamir/Game-Addiction-Cure)
 
 - 🌱 I’m currently learning **JS, React**
