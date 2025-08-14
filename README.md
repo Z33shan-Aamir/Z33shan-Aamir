@@ -19,7 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Here Are The Project Ideas That Don’t Suck…](https://levelup.gitconnected.com/here-are-the-project-ideas-that-dont-suck-933a4b455b09?source=rss-645d33a0cec1------2)
+- [Here Are The Best Coding Project Ideas That Don’t Suck…](https://levelup.gitconnected.com/here-are-the-project-ideas-that-dont-suck-933a4b455b09?source=rss-645d33a0cec1------2)
 - [No Budget? No Problem. The Top Free AI APIs for 2025](https://levelup.gitconnected.com/no-budget-no-problem-the-top-free-ai-apis-for-2025-9d30a08dd6a2?source=rss-645d33a0cec1------2)
 - [My Switch to Arch… The Good, The Bad, and The Ugly](https://medium.com/codetodeploy/my-switch-to-arch-the-good-the-bad-and-the-ugly-8b8fc7b715ea?source=rss-645d33a0cec1------2)
 - [Dev Secrets I Learned the Hard Way &lpar;So You Don’t Have To&rpar;](https://levelup.gitconnected.com/dev-secrets-i-learned-the-hard-way-so-you-dont-have-to-7f648ad59737?source=rss-645d33a0cec1------2)
