@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, Fellow Humans. I'm Zeeshan Aamir.</h1>
 <h3 align="center">A passionate frontend developer from Pakistan. Coding in GoLang and python because apparently I love coding and overcomplicating my life</h3>
+<h3 align="center"> _**And, Yes I don't touch grass, I also a vampire**_</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z33shan-aamir&label=Profile%20views&color=0e75b6&style=flat" alt="z33shan-aamir" /> </p>
+  
+- 📫 How to reach me **zeeshanaamir29@gmail.com**
 
 - 🔭 I’m currently working on [Game-Addiction-Cure](https://github.com/Z33shan-Aamir/Game-Addiction-Cure)
 
 - 🌱 I’m currently learning **JS, React**
 
-- 🤝 I’m looking for help with [Game-Addiction-Cure](https://github.com/Z33shan-Aamir/Game-Addiction-Cure)
-
 - 📝 I regularly write articles on [Medium](https://medium.com/@haztechycontent)
-
-- 💬 Ask me about **Django, GoLang, Python**
-
-- 📫 How to reach me **zeeshanaamir29@gmail.com**
-
+  
 - ⚡ Fun fact **I learn programming languages that I will never need just for fun.**
 
 ### Blogs posts
