@@ -16,10 +16,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Underated Life Advice No One Will Ever Give You!](https://haztechycontent.medium.com/underated-life-advice-no-one-will-ever-give-you-cdc16f1c2eef?source=rss-645d33a0cec1------2)
 - [How I Accidentally Quit Gaming by Coding My Own Anti-Gaming App](https://python.plainenglish.io/how-i-accidentally-quit-gaming-by-coding-my-own-anti-gaming-app-c022ea52f9cb?source=rss-645d33a0cec1------2)
 - [Here Are The Best Coding Project Ideas That Don’t Suck…](https://levelup.gitconnected.com/here-are-the-project-ideas-that-dont-suck-933a4b455b09?source=rss-645d33a0cec1------2)
 - [No Budget? No Problem. The Top Free AI APIs for 2025](https://levelup.gitconnected.com/no-budget-no-problem-the-top-free-ai-apis-for-2025-9d30a08dd6a2?source=rss-645d33a0cec1------2)
-- [My Switch to Arch… The Good, The Bad, and The Ugly](https://medium.com/codetodeploy/my-switch-to-arch-the-good-the-bad-and-the-ugly-8b8fc7b715ea?source=rss-645d33a0cec1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
