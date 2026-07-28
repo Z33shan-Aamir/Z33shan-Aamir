@@ -16,10 +16,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Apps To Replace Your Every Subscription &lpar;And don’t suck&rpar;](https://levelup.gitconnected.com/open-source-apps-to-replace-your-every-subscription-and-dont-suck-fe355bae7c75?source=rss-645d33a0cec1------2)
 - [Dating at 18 is Bad Math](https://haztechycontent.medium.com/dating-at-18-is-bad-math-f00dec0b825b?source=rss-645d33a0cec1------2)
 - [Docker vs VMs: When Containers Aren’t Enough](https://levelup.gitconnected.com/docker-vs-vms-when-containers-arent-enough-31934edb0070?source=rss-645d33a0cec1------2)
 - [Underated Life Advice No One Will Ever Give You!](https://haztechycontent.medium.com/underated-life-advice-no-one-will-ever-give-you-cdc16f1c2eef?source=rss-645d33a0cec1------2)
-- [How I Accidentally Quit Gaming by Coding My Own Anti-Gaming App](https://python.plainenglish.io/how-i-accidentally-quit-gaming-by-coding-my-own-anti-gaming-app-c022ea52f9cb?source=rss-645d33a0cec1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
