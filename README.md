@@ -16,10 +16,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Was One of 9000 Students Chasing Software Engineering. I Stopped.](https://levelup.gitconnected.com/i-was-one-of-9000-students-chasing-software-engineering-i-stopped-f08d853287e0?source=rss-645d33a0cec1------2)
 - [Everyone Says ‘Be Honest With Yourself.’ Almost Nobody Means It.](https://medium.com/the-sunday-journal/everyone-says-be-honest-with-yourself-almost-nobody-means-it-5c59b53b68fe?source=rss-645d33a0cec1------2)
 - [Open Source Apps To Replace Your Every Subscription &lpar;And don’t suck&rpar;](https://levelup.gitconnected.com/open-source-apps-to-replace-your-every-subscription-and-dont-suck-fe355bae7c75?source=rss-645d33a0cec1------2)
 - [Docker vs VMs: When Containers Aren’t Enough](https://levelup.gitconnected.com/docker-vs-vms-when-containers-arent-enough-31934edb0070?source=rss-645d33a0cec1------2)
-- [Underated Life Advice No One Will Ever Give You!](https://haztechycontent.medium.com/underated-life-advice-no-one-will-ever-give-you-cdc16f1c2eef?source=rss-645d33a0cec1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
